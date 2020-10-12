@@ -16,6 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Hola Maven");
+        System.out.println("Hola Git");
     }
     
 }
