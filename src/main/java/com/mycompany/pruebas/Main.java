@@ -18,5 +18,9 @@ public class Main {
         System.out.println("Hola Maven");
         System.out.println("Hola Git");
     }
+    public void agregar(){
+        //Codigo de base de datos
+        //Hola
+    }
     
 }
