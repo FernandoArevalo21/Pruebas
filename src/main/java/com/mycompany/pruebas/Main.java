@@ -22,5 +22,7 @@ public class Main {
         //Codigo de base de datos
         //Hola
     }
-    
+    public void nuevo(){
+        
+    }
 }
